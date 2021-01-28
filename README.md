@@ -26,7 +26,7 @@
 
 <p>
 <img src="https://github.com/miro00/miro00/blob/main/assets/icons/VSCode.png" alt="vscode" width="90" height="30">
-<img src="https://github.com/miro00/miro00/blob/main/assets/icons/PyCharm.png" alt="pycharm" width="90" height="30">
+<img src="https://github.com/miro00/miro00/blob/main/assets/icons/Pycharm.png" alt="pycharm" width="90" height="30">
 </p>
 
 **Design**
