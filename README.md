@@ -10,5 +10,5 @@
 <img src="https://github.com/miro00/miro00/blob/main/assets/icons/Figma.png" alt="figma" width="150" height="50">
 </p>
 <p>
-<img src="https://github.com/miro00/miro00/blob/main/assets/icons/BuyMeACoffee.png" alt="coffee" width="150" height="50">
+<a href="https://www.buymeacoffee.com/malinovsky" target="_blank"><img src="https://github.com/miro00/miro00/blob/main/assets/icons/BuyMeACoffee.png" alt="coffee" width="150" height="50"></a>
 </p>
