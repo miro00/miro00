@@ -45,5 +45,5 @@
 **🍕**
 
 <p>
-<a href="https://www.buymeacoffee.com/malinovsky" target="_blank"><img src="https://github.com/miro00/miro00/blob/main/assets/icons/BuyMeACoffee.png" alt="coffee" width="126" height="30"></a>
+<a href="https://www.buymeacoffee.com/malinovsky" target="_blank"><img src="https://github.com/miro00/miro00/blob/main/assets/icons/Coffee.png" alt="coffee" width="126" height="30"></a>
 </p>
