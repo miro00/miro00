@@ -1,5 +1,5 @@
-### Hi there 👋
+# Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=miro00&color=blueviolet)
+# Tools
 
-<a href="https://www.buymeacoffee.com/malinovsky" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
+![](https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
